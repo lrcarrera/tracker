@@ -1,1 +1,1 @@
-# Party for y'all
+# GPS tracker for android
